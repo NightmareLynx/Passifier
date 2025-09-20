@@ -1,0 +1,221 @@
+{
+  "timestamp": "2025-09-20T19:46:07.958939",
+  "total_passwords": 10,
+  "results": [
+    {
+      "password": "hello",
+      "length": 5,
+      "entropy": 23.502198590705458,
+      "shannon_entropy": 9.609640474436812,
+      "character_sets": [
+        "lowercase"
+      ],
+      "strength_score": 9,
+      "strength_level": "Very Weak",
+      "vulnerabilities": [
+        "Too short"
+      ],
+      "time_to_crack": "< 1 second",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "world",
+      "length": 5,
+      "entropy": 23.502198590705458,
+      "shannon_entropy": 11.60964047443681,
+      "character_sets": [
+        "lowercase"
+      ],
+      "strength_score": 9,
+      "strength_level": "Very Weak",
+      "vulnerabilities": [
+        "Too short"
+      ],
+      "time_to_crack": "< 1 second",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "name",
+      "length": 4,
+      "entropy": 18.801758872564367,
+      "shannon_entropy": 8.0,
+      "character_sets": [
+        "lowercase"
+      ],
+      "strength_score": 6,
+      "strength_level": "Very Weak",
+      "vulnerabilities": [
+        "Too short"
+      ],
+      "time_to_crack": "< 1 second",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "address",
+      "length": 7,
+      "entropy": 32.90307802698764,
+      "shannon_entropy": 15.651484454403228,
+      "character_sets": [
+        "lowercase"
+      ],
+      "strength_score": 15,
+      "strength_level": "Very Weak",
+      "vulnerabilities": [
+        "Too short"
+      ],
+      "time_to_crack": "4.0 seconds",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "test12345",
+      "length": 9,
+      "entropy": 46.529325012980806,
+      "shannon_entropy": 26.52932501298081,
+      "character_sets": [
+        "lowercase",
+        "digits"
+      ],
+      "strength_score": 27,
+      "strength_level": "Weak",
+      "vulnerabilities": [
+        "Contains weak patterns"
+      ],
+      "time_to_crack": "14.1 hours",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "123456",
+      "length": 6,
+      "entropy": 19.931568569324174,
+      "shannon_entropy": 15.509775004326936,
+      "character_sets": [
+        "digits"
+      ],
+      "strength_score": 0,
+      "strength_level": "Very Weak",
+      "vulnerabilities": [
+        "Common password",
+        "Too short",
+        "Contains weak patterns"
+      ],
+      "time_to_crack": "< 1 second",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "test96969",
+      "length": 9,
+      "entropy": 46.529325012980806,
+      "shannon_entropy": 19.774437510817346,
+      "character_sets": [
+        "lowercase",
+        "digits"
+      ],
+      "strength_score": 27,
+      "strength_level": "Weak",
+      "vulnerabilities": [
+        "High character repetition"
+      ],
+      "time_to_crack": "14.1 hours",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "welcom",
+      "length": 6,
+      "entropy": 28.202638308846552,
+      "shannon_entropy": 15.509775004326936,
+      "character_sets": [
+        "lowercase"
+      ],
+      "strength_score": 12,
+      "strength_level": "Very Weak",
+      "vulnerabilities": [
+        "Too short"
+      ],
+      "time_to_crack": "< 1 second",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "admin",
+      "length": 5,
+      "entropy": 23.502198590705458,
+      "shannon_entropy": 11.60964047443681,
+      "character_sets": [
+        "lowercase"
+      ],
+      "strength_score": 0,
+      "strength_level": "Very Weak",
+      "vulnerabilities": [
+        "Common password",
+        "Too short"
+      ],
+      "time_to_crack": "< 1 second",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    },
+    {
+      "password": "password",
+      "length": 8,
+      "entropy": 37.603517745128734,
+      "shannon_entropy": 22.0,
+      "character_sets": [
+        "lowercase"
+      ],
+      "strength_score": 18,
+      "strength_level": "Very Weak",
+      "vulnerabilities": [
+        "Common password"
+      ],
+      "time_to_crack": "1.7 minutes",
+      "recommendations": [
+        "Increase length to at least 12 characters",
+        "Add uppercase letters",
+        "Add special characters",
+        "Avoid common passwords and patterns"
+      ]
+    }
+  ]
+}
