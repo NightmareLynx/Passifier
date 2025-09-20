@@ -1,3 +1,4 @@
+![image alt](https://github.com/NightmareLynx/Passifier/blob/282437a448ca311a1431c0000bf088701921edc1/Banner.png)
 # Passifier
 
 **Advanced CLI Password Strength Auditor with Entropy Analysis**
