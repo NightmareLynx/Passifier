@@ -1,4 +1,4 @@
-![image alt](https://github.com/VEGAxSTERLING/Passifier/blob/282437a448ca311a1431c0000bf088701921edc1/Banner.png)
+![image alt](https://github.com/NightmareLynx/Passifier/blob/282437a448ca311a1431c0000bf088701921edc1/Banner.png)
 # Passifier
 
 **Advanced CLI Password Strength Auditor with Entropy Analysis**
@@ -44,7 +44,7 @@ A comprehensive password security analysis tool designed for cybersecurity profe
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/VEGAxSTERLING/passifier.git
+   git clone https://github.com/NightmareLynx/passifier.git
    cd Passifier
    ```
 2. **Make executable:**
@@ -187,17 +187,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**VEGA STERLING**
+**NightmareLynx**
 
 - Cybersecurity Enthusiast & Educator
-- Security Content Creator (Linkedin, Medium, Quora)
+- Security Content Creator (Dev.to, Medium)
 - Mission: Spreading cybersecurity awareness through education
 
 ### Connect with me:
 
-- Linkedin: [@VEGA STERLING](https://linkedin.com/in/vega-sterling-a91163343/)
-- Quora: [@VEGA STERLING](https://www.quora.com/profile/Vega-Sterling-2)
-- Medium: [@VEGA STERLING](hhttps://vega-sterling.medium.com/)
+- GitHub: [@NightmareLynx](https://github.com/NightmareLynx)
+- Dev.to: [@NightmareLynx](https://dev.to/nightmare-lynx)
+- Medium: [@NightmareLynx](https://medium.com/@Nightmare-Lynx)
 
 ## Acknowledgments
 
